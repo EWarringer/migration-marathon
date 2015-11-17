@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sinatra Active Record Starter Kit
 
 This template provides a basic [Sinatra](http://www.sinatrarb.com/) application
@@ -53,3 +54,7 @@ rake db:seed              # load the seed data from db/seeds.rb
 rake db:setup             # create the database and load the schema
 rake db:test:prepare      # Prepare test database from development schema
 ```
+=======
+# migration-marathon
+launch exercise
+>>>>>>> 0c030138f7454c3b5080bc1f6b3442d18823e029
